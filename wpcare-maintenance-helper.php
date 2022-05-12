@@ -1,13 +1,13 @@
 <?php
 /**
- * Plugin Name:       JKWS Maintenance Helper
- * Plugin URI:        https://github.com/JosKlever/JKWS-Maintenance-Helper
- * Description:       This plugin is used to run custom code that's used for maintaining your website by Jos Klever Web Support.
- * Version:           0.2.2
+ * Plugin Name:       WPcare Maintenance Helper
+ * Plugin URI:        https://github.com/CapWebSolutions/wpcare-maintenance-helper
+ * Description:       This plugin is used to run custom code that's used for maintaining your website by Cap Web Solutions WPcare.
+ * Version:           1.0.0
  * Requires at least: 5.3
  * Requires PHP:      7.0
- * Author:            Jos Klever
- * Author URI:        https://joskleverwebsupport.nl/
+ * Author:            Matt Ryan
+ * Author URI:        https://capwebsolutions.com/
  * License:           GPL v2 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  */
