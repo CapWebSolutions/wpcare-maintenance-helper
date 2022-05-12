@@ -2,6 +2,7 @@
 A must-use plugin to use on all sites under WPcare Care Plan, to change some settings, like disabling auto updates.
 
 This is a simple plugin which makes some adjustments to WordPress sites maintained via [Cap Web WPcare](https://capwebsolutions.com/shop/wpcare-plans/).
+Kudos to [JosKlever/JKWS-Maintenance-Helper](https://github.com/JosKlever/JKWS-Maintenance-Helper) for the inspiration. 
 
 ## Installation
 There are 2 ways, manual and via MainWP Dashboard.
