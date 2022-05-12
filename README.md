@@ -1,8 +1,7 @@
-# JKWS Maintenance Helper
-A must-use plugin I use on all sites, to change some settings, like disabling auto updates.
+# WPcare Maintenance Helper
+A must-use plugin to use on all sites under WPcare Care Plan, to change some settings, like disabling auto updates.
 
-This is a simple plugin which makes some adjustments to WordPress sites I maintain via [Jos Klever Web Support](https://joskleverwebsupport.nl).
-You can use this concept to add your own code snippets, just like I did.
+This is a simple plugin which makes some adjustments to WordPress sites maintained via [Cap Web WPcare](https://capwebsolutions.com/shop/wpcare-plans/).
 
 ## Installation
 There are 2 ways, manual and via MainWP Dashboard.
